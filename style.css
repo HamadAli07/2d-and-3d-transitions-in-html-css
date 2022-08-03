@@ -1,0 +1,83 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-yellow {
+    background: yellow;
+}
+
+.bg-green {
+    background: green;
+}
+
+.bg-blue {
+    background: blue;
+}
+
+.bg-grey {
+    background: grey;
+}
+
+.bg-brown {
+    background: brown;
+}
+
+.bg-orange {
+    background: orange;
+}
+
+.bg-pink {
+    background: pink;
+}
+
+.bg-red {
+    background: red;
+}
+
+.bg-purple {
+    background: purple;
+}
+
+.translate:hover {
+    transform: translate(10px, 10px);
+}
+
+.rotate:hover {
+    transform: rotate(20deg);
+}
+
+.scale:hover {
+    transform: scale(2,3);
+}
+
+.scalex:hover {
+    transform: scaleX(0.5);
+}
+
+.scaley:hover {
+    transform: scaley(2);
+}
+
+.skewx:hover {
+    transform: skewX(20deg);
+}
+
+.skewy:hover {
+    transform: skewY(20deg);
+}
+
+.skew:hover {
+    transform: skew(20deg,10deg);
+}
+
+.drotate:hover {
+    transform: rotate3d(1, 1, 1, 45deg)
+}
+
+.dscale:hover {
+    transform: scale3d(-1.4, 0.4, 0.7);
+}
+
+.dtranslate:hover {
+    transform: translate3d(-2.7rem, 0, 1rem);
+}
